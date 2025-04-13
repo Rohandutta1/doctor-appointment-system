@@ -15,8 +15,8 @@ export default function Sidebar() {
           </ul>
         </nav>
         <div className="mt-auto">
-          <p className="text-sm text-gray-500 dark:text-gray-400">Emergency Hotlines:</p>
-          <p className="text-sm text-gray-700 dark:text-gray-300">+24 622 288 7240</p>
+          <p className="text-sm text-gray-500 dark:text-gray-400">Emergency Number:</p>
+          <p className="text-sm text-gray-700 dark:text-gray-300">+91 8001424197</p>
         </div>
       </div>
     );

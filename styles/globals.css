@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gray-100 text-black;
+  @apply bg-gray-100 text-gray-800;
 }
 
 .dark body {
-  @apply bg-gray-900 text-white;
+  @apply bg-gray-900 text-gray-200;
 }
 
 .dark .bg-white {
@@ -16,4 +16,16 @@ body {
 
 .dark .border {
   @apply border-gray-700;
+}
+
+.dark .text-gray-600 {
+  @apply text-gray-400;
+}
+
+.dark .hover:bg-gray-200 {
+  @apply hover:bg-gray-700;
+}
+
+.dark .hover:bg-gray-300 {
+  @apply hover:bg-gray-600;
 }
