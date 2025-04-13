@@ -33,7 +33,6 @@ A simple and responsive Doctor Appointment Booking System built with **Next.js**
 ```bash
 git clone https://github.com/your-username/doctor-appointment-booking.git
 cd doctor-appointment-booking
----
 
 
 
